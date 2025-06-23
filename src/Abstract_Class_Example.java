@@ -16,7 +16,7 @@ abstract class Standard {
         System.out.println("Hello " + name);
     }
 
-    // Abstract method: no  body, must be implemented by any subclass
+    // Abstract method: No body, must be implemented by any subclass
     abstract void greet();
 }
 
