@@ -21,5 +21,6 @@ public class ifelse_problem1 {
         else{
             System.out.println("Sorry Student is Fail!!");
         }
+        scan.close();
     }
 }
